@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gui_Morais_97)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioGMMorais&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BioGMMorais&layout=compact&langs_count=7&theme=dark)
 
 ## Tecnologias
 
