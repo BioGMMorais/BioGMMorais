@@ -1,7 +1,7 @@
 ### Olá! Eu sou Guilherme Morais, estudante de biologia pela UERJ.🐜
 ### Minha curiosidade me fez entrar no universo do desenvolvimento e programação!🖥️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-m-morais/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-morais/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gui_Morais_97)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioGMMorais&show_icons=true&theme=dark)
