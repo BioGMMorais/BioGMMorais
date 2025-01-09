@@ -1,4 +1,4 @@
-### Olá! Eu sou Guilherme Morais, estudante de biologia pela UERJ.🐜
+### Olá! Eu sou Guilherme Morais, bacharel em ciências biologia pela UERJ.🐜
 ### Minha curiosidade me fez entrar no universo do desenvolvimento e programação!🖥️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-m-morais/)
