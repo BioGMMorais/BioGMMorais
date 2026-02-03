@@ -7,8 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BioGMMorais&show_icons=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BioGMMorais&layout=compact&langs_count=7&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BioGMMorais/github-readme-stats)
-
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
